@@ -1,87 +1,103 @@
-# 💸 Spendly — Smart Expense Tracking App
+# 💸 Spendly
 
-A modern and intuitive expense tracking iOS app built using **SwiftUI** and **MVVM architecture**.
-Track your daily spending, analyze patterns, and manage finances with a clean and user-friendly interface.
+A simple and clean iOS expense tracking app built using **SwiftUI**.
+It helps users keep track of daily expenses and understand their spending habits through visual insights.
 
 ---
 
 ## ✨ Features
 
-* 💰 Add and manage daily expenses
-* 📊 Category-wise spending analysis
-* 📈 Interactive bar charts for insights
-* 🇮🇳 Indian Rupee (₹) formatting
-* 🎨 Clean and modern UI
-* 📱 Smooth iPhone experience
-* 💾 Persistent data storage
+* Add and manage daily expenses
+* View category-wise spending
+* Interactive charts for better insights
+* Indian Rupee (₹) formatting
+* Clean and minimal UI
+* Persistent local storage
 
 ---
 
-## 📸 App Preview
+## 📸 App Screenshots
 
-### 📊 Dashboard – Spending Overview
+### 📊 Dashboard
 
-Shows total spending, category breakdown, and recent expenses.
+Overview of total spending, category distribution, and recent expenses.
 
-### ➕ Add Expense – Simple Input
+![Dashboard](assets/dashboard.png)
 
-Quickly add expenses with category, amount, and date.
+---
 
-### 📈 Analytics – Visual Insights
+### ➕ Add Expense
 
-Bar charts to understand spending patterns.
+Quickly add a new expense with category and date.
+
+![Add Expense](assets/add.png)
+
+---
+
+### 📈 Analytics
+
+Visual representation of spending using bar charts.
+
+![Analytics](assets/analytics.png)
+
+---
+
+### 📋 Expense List
+
+View all expenses grouped by date.
+
+![All Expenses](assets/list.png)
 
 ---
 
 ## 🛠 Tech Stack
 
-* **Language:** Swift
-* **Framework:** SwiftUI
-* **Architecture:** MVVM
-* **Charts:** Swift Charts
-* **Storage:** UserDefaults
-* **IDE:** Xcode
+* Swift
+* SwiftUI
+* MVVM Architecture
+* Swift Charts
+* UserDefaults
 
 ---
 
-## 🚀 How to Run
+## 🚀 Getting Started
+
+Clone the repository:
 
 ```bash
 git clone https://github.com/tejas7428/Spendly.git
 ```
 
-1. Open in Xcode
-2. Select an iPhone simulator
-3. Click Run ▶️
+Then:
+
+* Open the project in Xcode
+* Select a simulator or device
+* Run the app
 
 ---
 
-## 🧠 Project Highlights
+## 🧠 Notes
 
-* Built with **clean MVVM architecture**
-* Focus on **user experience and simplicity**
-* Modular and scalable structure
-* Portfolio-ready iOS application
+This project focuses on building a clean UI and understanding how data flows using MVVM.
+The structure is kept modular so features like automation or cloud sync can be added later.
 
 ---
 
-## 📌 Future Improvements
+## 📌 Future Scope
 
-* 📸 Receipt scanning (OCR)
-* ✏️ Edit & delete expenses
-* ☁️ Cloud sync (Firebase / iCloud)
-* 🔔 Budget alerts
-* 🎨 Advanced animations
+* Receipt scanning using OCR
+* Edit and delete expenses
+* Cloud sync (Firebase / iCloud)
+* Budget tracking and alerts
 
 ---
 
 ## 👨‍💻 Author
 
-**Tejas Sharma**
-iOS Developer | SwiftUI Learner
+Tejas Sharma
 
 ---
 
-## ⭐ If you like this project
+## ⭐ Support
 
-Give it a star ⭐ on GitHub — it helps a lot!
+If you found this useful, consider giving it a star ⭐
