@@ -22,14 +22,14 @@ It helps users keep track of daily expenses and understand their spending habits
 
 Overview of total spending, category distribution, and recent expenses.
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/Dashboard.png)
 ---
 
 ### ➕ Add Expense
 
 Quickly add a new expense with category and date.
 
-![Add Expense](assets/add-expense.png)
+![Add Expense](assets/Add-Expense.png)
 
 ---
 
@@ -37,7 +37,7 @@ Quickly add a new expense with category and date.
 
 Visual representation of spending using bar charts.
 
-![Analytics](assets/analytics.png)
+![Analytics](assets/Analytics.png)
 
 ---
 
@@ -45,8 +45,7 @@ Visual representation of spending using bar charts.
 
 View all expenses grouped by date.
 
-![All Expenses](assets/all-expenses.png)
----
+![All Expenses](assets/All-Expense.png)---
 
 ## 🛠 Tech Stack
 
